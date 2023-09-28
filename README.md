@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdelkaderAli
-- 👀 I’m interested in embededd software 
+- 👀 I’m interested in Embedded Software 
 - 🌱 I’m currently learning ARM AUTOSAR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdelakader.ali4798@gmail.com
